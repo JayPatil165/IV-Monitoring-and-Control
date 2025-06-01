@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/03a2d426-f62c-4af3-b672-15dce9a9ee07)# IV Monitoring and Control System
+# IV Monitoring and Control System
 
 > A project aimed at enhancing the **accuracy**, **efficiency**, and **safety** of conventional intravenous (IV) therapy systems using automated monitoring and control mechanisms.
 
